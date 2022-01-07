@@ -1,0 +1,12 @@
+.Recipecard{
+    margin: 10px;
+    padding: 10px;
+    background-color: gainsboro;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.Recipecard:hover{
+    cursor: pointer;
+    border-radius: 20px;
+    box-shadow: 0 32px 64px 0 rgba(86, 228, 4, 0.2);
+}
